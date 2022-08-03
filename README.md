@@ -16,3 +16,5 @@ Start the .jar file via command line.
 
 -l [ipAdress] [n] Same as above, but uses [ipAdress] instead of localhost
 
+# Please Note:
+The conncetion between frontend and backend is neither authenticated nor encrypted
